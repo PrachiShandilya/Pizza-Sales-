@@ -61,10 +61,10 @@ Several DAX Measures were created to perform calculations, including:
 
 
 ### Dashboard Screenshots
-- 1. Sales Overview-
+1. Sales Overview-
   ![Sales verview Dashboard](Images/Sales_Overview_Dashboard.png)
 
-- 2. Best & Worst Sellers-
+2. Best & Worst Sellers-
   ![Best/Worst Sellers Dashboard](Images/Best_Worst_Sellers_Dashboard.png)
 
 
