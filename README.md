@@ -10,9 +10,8 @@ This project is a Pizza Sales Analysis Dashboard built using SQL and Power BI. T
 - Determine best-selling and worst-selling pizzas.
 
 ### Dataset
-Source: 
+Source: [Download Dataset](https://github.com/PrachiShandilya/Pizza-Sales-/blob/main/Data/pizza_sales_excel_file%20(1).xlsx)
 
-Tables: pizza_sales
 
 ### Metrics Used:
 
@@ -62,10 +61,10 @@ Several DAX Measures were created to perform calculations, including:
 
 
 ### Dashboard Screenshots
-- Sales Overview-
+- 1. Sales Overview-
   ![Sales verview Dashboard](Images/Sales_Overview_Dashboard.png)
 
-- Best & Worst Sellers-
+- 2. Best & Worst Sellers-
   ![Best/Worst Sellers Dashboard](Images/Best_Worst_Sellers_Dashboard.png)
 
 
