@@ -53,17 +53,20 @@ The dashboard consists of two main pages:
 
 Several DAX Measures were created to perform calculations, including:
 
-- Total Revenue: SUM(pizza_sales[total_price])
-- Total Orders: DISTINCTCOUNT(pizza_sales[order_id])
-- Total Pizzas Sold: SUM(pizza_sales[quantity])
+- Total Revenue : SUM('pizza_sales'[total_price])
+- Total Orders: DISTINCTCOUNT('pizza_sales'[order_id])
+- Total Pizzas Sold: SUM('pizza_sales'[quantity])
 - Average Order Value: DIVIDE([Total Revenue], [Total Orders])
+- Total Pizzas Sold : SUM('pizza_sales'[quantity])
 - Average Pizzas per Order: DIVIDE([Total Pizzas Sold], [Total Orders])
 
 
 ### Dashboard Screenshots
 - Sales Overview
+  ![Sales verview Dashboard](Images/Sales_Overview_Dashboard.png)
 
 - Best & Worst Sellers
+  ![Best/Worst Sellers Dashboard](Images/Best_Worst_Sellers_Dashboard.png)
 
 
 ### Insights & Business Impact
